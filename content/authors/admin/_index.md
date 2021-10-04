@@ -9,13 +9,14 @@ superuser: true
 role: PhD candidate at the Chinese University of Hong Kong
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optogenetic tools, chemical biology, and biophysics.
+bio: My research interests
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Optogenetics
+- Biomolecular Engineering
+- Chemical Biology
+- Biophysics
 
 # Education to show in About widget
 education:
@@ -37,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "peiyuan.huang@outlook.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/peiyuan_huang
