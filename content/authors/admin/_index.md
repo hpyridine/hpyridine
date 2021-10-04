@@ -8,11 +8,6 @@ superuser: true
 # Role/position/tagline
 role: PhD candidate at the Chinese University of Hong Kong
 
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optogenetic tools, chemical biology, and biophysics.
 
